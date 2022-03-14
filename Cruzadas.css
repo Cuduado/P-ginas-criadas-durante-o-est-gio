@@ -1,0 +1,25 @@
+div, p{
+	color: #DC143C;
+	border: 1px solid #ffd700;
+	margin: 20px;
+	font-weight: bolder;
+	padding: 15px;
+}
+
+body{
+	background: url(https://www.meme-arsenal.com/memes/c580a9dca924410f955093b0174b679e.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+h1{
+	color: #DC143C;
+	border: 1px solid #ffd700;
+	text-align: center;
+}
+
+span{
+	border: 1px solid black;
+	color: #DC143C;
+	font-weight: bolder;
+}

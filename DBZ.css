@@ -1,0 +1,41 @@
+*{
+	font-family: consolas;
+}
+
+body {
+	background: url(https://compass-ssl.xbox.com/assets/79/64/7964d5d2-4f1c-4110-a7e8-17c3c353dec7.jpg?n=Dragon-Ball-Z-Kakarot_GLP-Page-Hero-1084_1920x1080.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+h1{
+	font-family: consolas;
+	text-align: center;
+	font-weight: bolder;
+	color: darkblue;
+}
+
+p{
+	font-family: consolas;
+	text-align: center;
+	font-weight: bolder;
+	color: darkblue;
+}
+
+.imagem{
+	width: 15%;
+	border: 5px dashed blue;
+}
+.gif{
+	width: 25%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px dashed darkblue;
+}
+
+iframe{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}

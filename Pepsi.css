@@ -1,0 +1,26 @@
+*{
+	font-family: Consolas;
+	font-weight: bolder;
+	color: #ff0000;
+	text-align: center;
+}
+
+body{
+	background: url(https://slm-assets.secondlife.com/assets/19595465/lightbox/pepsiman.jpg?1516838096);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+.imagem{
+	width: 25%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px dashed #B30000;
+}
+
+.número{
+	color: #ff2222;
+	text-align: center;
+	font-family: fantasy;
+	font-weight: bolder;}

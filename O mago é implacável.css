@@ -1,0 +1,71 @@
+body, html{
+	background: url(https://pm1.narvii.com/6782/2db3080ccce380be3cd73e10653d11f995ad13ccv2_hq.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;
+}
+
+*{
+	font-family: consolas, fantasy, sans-serif;
+	font-weight: bolder;
+	color: #DC143C;
+}
+
+.header{
+	background-color: black;
+	position: relative;
+}
+
+.logo{
+	width: 300px;
+	padding: 10px;
+	margin-left: 50px;
+}
+
+.menu ul {
+	list-style: none;
+}
+
+.menu li{
+	display: inline;
+	padding: 8px;
+	cursor: pointer;
+}
+
+.menu{
+	position: absolute;
+	right: 50px;
+	bottom: 0;
+}
+
+.música{
+	text-align: center;
+	font-size: 17px;
+}
+
+.JooJ{
+	text-decoration: line-through;
+	font-size: 20px;
+}
+
+.JooJ2{
+	text-decoration: underline;
+	font-size: 25px;
+}
+
+.JooJ3{
+	font-size: 30px;
+}
+
+h1{
+	font-size: 45px;
+	text-align: center;
+}
+
+.vídeo{
+	border: 5px dashed #DC143C;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}

@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+	color: #40939c;
+	text-align: center;
+	font-family: consolas;
+}
+
+#JooJ{
+	background: url(https://www.gvme.org/pages/get_image_large.php?id=1744);
+	background-size: 100%;
+	height: 86vh;
+}
+
+
+.rodapé{
+	background-color: #171717;
+	height: 7vh;
+	border-bottom: 1px solid #c4513b;
+}
+
+
+.rodapé2{
+	background-color: #171717;
+	height: 7vh;
+}
+
+.rodapé2 li{
+	display: inline;
+	padding: 8px;
+	cursor: pointer;
+	list-style: none;
+}
+
+#JooJ2{
+	background: url(https://i.gifer.com/5J0l.gif);
+	background-size: 100%;
+	height: 80vh;
+}
+
+
+.pesquisa{
+	width: 30%;
+	margin-top: 100px;
+	color: #c4513b;
+	text-align: left;
+}

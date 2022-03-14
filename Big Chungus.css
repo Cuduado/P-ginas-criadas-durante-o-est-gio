@@ -1,0 +1,19 @@
+.título{
+	color: steelblue;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+.txt{
+	color:	#aaaaaa;
+	font-weight: bold;
+	font-family: initial;
+	text-align: right;
+}
+.looneytunes{
+	color:#00004C;
+	font-family: consolas;
+	font-weight: bold;
+	font-family: initial;
+	text-align: left;
+	line-height: 30px;
+}

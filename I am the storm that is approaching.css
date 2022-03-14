@@ -1,0 +1,66 @@
+*{
+	font-family: Shadows Into Light, Consolas;
+	font-weight: bolder;
+	color: #DC143C;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: url(https://sm.ign.com/ign_br/preview/d/devil-may-/devil-may-cry-5-special-edition-vergil-hands-on-preview_5wgw.jpg);
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+.header{
+	background-color: gray;
+	padding: 8px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+@media(max-width: 375px){
+	*{
+		font-family: Permanent Marker;
+		color: #0000B2;
+	}
+
+	#img{
+		width: 25%;
+	}
+
+	.header{
+		color: #0000B2;
+		flex-direction: column;
+		text-align: center;
+	}
+
+	.menu ul{
+		padding: 0;
+	}
+
+	body{
+		background: url(https://wallpaperaccess.com/full/5098821.jpg);
+		background-attachment: fixed;
+		background-size: 100%;
+	}
+}
+
+.logo{
+	width: 60px;
+}
+
+.menu li{
+	display: inline;
+	margin: 0 8px;
+	cursor: pointer;
+}
+
+
+#img{
+	width: 11%;
+}
